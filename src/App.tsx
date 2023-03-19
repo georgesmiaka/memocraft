@@ -1,22 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <p>Welcome to memocraft</p>
+        <img src='../assets/logo2.png' className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          The virtual version of G!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/people/Georges-Kayembe-Miaka-Pro/100089995069982/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn more
         </a>
       </header>
     </div>
